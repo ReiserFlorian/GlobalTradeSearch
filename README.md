@@ -1,1 +1,3 @@
 # GlobalTradeSearch
+
+Work in progress
